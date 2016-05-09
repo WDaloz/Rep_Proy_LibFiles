@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<list>
+	<MockDataObject>
+		<codigo>2</codigo>
+		<descripcion>Bebida</descripcion>
+		<precio>1.9</precio>
+		<disponible>true</disponible>
+		<categoria>B</categoria>
+	</MockDataObject>
+	<MockDataObject>
+		<codigo>2</codigo>
+		<descripcion>Galleta</descripcion>
+		<precio>0.4</precio>
+		<disponible>true</disponible>
+		<categoria>G</categoria>
+	</MockDataObject>
+	<MockDataObject>
+		<codigo>2</codigo>
+		<descripcion>Galleta</descripcion>
+		<precio>0.4</precio>
+		<disponible>true</disponible>
+		<categoria>G</categoria>
+	</MockDataObject>
+</list>

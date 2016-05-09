@@ -1,0 +1,6 @@
+0    21/04/2016 17:36:36 [main] INFO  com.test.config.enums.TestFilesTypes:28 - Archivo de secuencia de bytes 
+4    21/04/2016 17:36:36 [main] INFO  com.test.config.enums.TestFilesTypes:29 - Archivo de texto plano 
+4    21/04/2016 17:36:36 [main] INFO  com.test.config.enums.TestFilesTypes:30 - Archivo xml 
+0    21/04/2016 17:40:55 [main] INFO  com.test.config.enums.TestFilesTypes:28 - Archivo de secuencia de bytes 
+4    21/04/2016 17:40:55 [main] INFO  com.test.config.enums.TestFilesTypes:29 - Archivo de texto plano 
+5    21/04/2016 17:40:55 [main] INFO  com.test.config.enums.TestFilesTypes:30 - Archivo xml 

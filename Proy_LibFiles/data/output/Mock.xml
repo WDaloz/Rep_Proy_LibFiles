@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<MockDataObject>
+	<codigo>1</codigo>
+	<descripcion>Comestible</descripcion>
+	<precio>2.3</precio>
+	<disponible>true</disponible>
+	<categoria>E</categoria>
+</MockDataObject>
